@@ -12,3 +12,4 @@ imprima desde 1 a 100
 
   console.log(rta || i);
 } */
+console.log("alooo");
